@@ -17,4 +17,5 @@ YouTube - https://www.youtube.com/channel/UCT12Cnpkd-6kQEewKv_kqbQ
 
 # (Mostly) Finshed Projects
 [EXAMPLE BOT](https://www.github.com/Trigam04/EXAMPLE-BOT)
+
 yeah i don't usually finish many projects
