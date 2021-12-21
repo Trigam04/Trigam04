@@ -3,9 +3,9 @@ I'm just someone who likes to code things
 
 # Working On
 Axle (Discord Bot)  
-https://www.trigamyt.com (Website)  
-Cataclysm (Game)  
-Endless Ascension (Minecraft mod)  
+https://www.trigam.dev (Website)  
+Double Layer (Game)  
+Collections (Minecraft mod)  
 uh probably something else I can't remember
 
 # Contacts
