@@ -8,10 +8,6 @@ Sorry for all of the scripts
 
 [My website][website]
 
-[My Discord bot][bot]
-
-<img align="center" alt="Nerdopedia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=toxicscientist&theme=synthwave&border_radius=25" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxicscientist&layout=compact&langs_count=5&border_radius=25&theme=synthwave" />
 
 [bot]: taratech.nerdopedia.repl.co/
 [website]: https://toxicscientist.github.io
