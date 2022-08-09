@@ -2,7 +2,7 @@
 I'm just someone who likes to code things
 
 # Working On
-Axle (Discord Bot)  
+Trigam Botnet (Discord Bots)  
 https://www.trigam.dev (Website)  
 Double Layer (Game)  
 Collections (Minecraft mod)  
@@ -11,11 +11,8 @@ uh probably something else I can't remember
 # Contacts
 Email - trigambusiness@gmail.com  
 Discord - Trigam#3053  
-Discord Server - https://discord.gg/9BSXTNwbeq  
+Discord Server - (Not public yet) 
 Twitter - https://twitter.com/Trigam04  
-YouTube - https://www.youtube.com/channel/UCT12Cnpkd-6kQEewKv_kqbQ  
+YouTube - https://www.youtube.com/channel/UCT12Cnpkd-6kQEewKv_kqbQ 
 
-# (Mostly) Finshed Projects
-[EXAMPLE BOT](https://www.github.com/Trigam04/EXAMPLE-BOT)
-
-yeah i don't usually finish many projects
+i don't usually finish many projects :|
