@@ -1,9 +1,8 @@
-## Hey there, I'm Nerdopedia!
+# Trigam
 
 [![node.js]](https://nodejs.org/)
 [![javascript]](https://en.wikipedia.org/wiki/JavaScript)
 
-# Trigam
 I'm just someone who likes to code things
 
 # Working On
