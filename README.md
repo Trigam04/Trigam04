@@ -15,7 +15,7 @@ I'm just someone who likes to code things
 # Contacts
 * Email - trigambusiness@gmail.com  
 * Discord - trigam
-* Discord Server - (Not public yet) 
+* Discord Server - https://dsc.gg/trigam-den 
 * Twitter - https://twitter.com/Trigam04  
 * YouTube - https://www.youtube.com/@trigamdev
 
