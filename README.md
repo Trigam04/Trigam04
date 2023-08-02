@@ -10,15 +10,14 @@ I'm just someone who likes to code things
 * Trigam Botnet (Discord Bots)  
 * https://www.trigam.dev (Website)
 * Collections (Minecraft mod)  
-* Cataclysm (Game)
 * uh probably something else I can't remember
 
 # Contacts
 * Email - trigambusiness@gmail.com  
-* Discord - Trigam#6722  
+* Discord - trigam
 * Discord Server - (Not public yet) 
 * Twitter - https://twitter.com/Trigam04  
-* YouTube - https://www.youtube.com/channel/UCT12Cnpkd-6kQEewKv_kqbQ 
+* YouTube - https://www.youtube.com/@trigamdev
 
 i don't usually finish many projects :|
 
