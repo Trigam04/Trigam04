@@ -7,10 +7,13 @@
 I'm just someone who likes to code things
 
 # Working On
-* Trigam Botnet (Discord Bots)  
-* https://www.trigam.dev (Website)
-* Collections (Minecraft mod)  
+* [Trigam Botnet](https://github.com/Trigam04/Trigam-Botnet)
+* https://www.trigam.dev
+* [Collections](https://github.com/Trigam04/Collections)  
+* [Trans Game (EXTREMELY WIP)](https://github.com/Trigam04/trans-game)
 * uh probably something else I can't remember
+
+i don't usually finish many projects :|
 
 # Contacts
 * Email - trigambusiness@gmail.com  
@@ -18,8 +21,6 @@ I'm just someone who likes to code things
 * Discord Server - https://dsc.gg/trigam-den 
 * Twitter - https://twitter.com/Trigam04  
 * YouTube - https://www.youtube.com/@trigamdev
-
-i don't usually finish many projects :|
 
 
 [node.js]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&labelColor=1e2122&logo=node.js
